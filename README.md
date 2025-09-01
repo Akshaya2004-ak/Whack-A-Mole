@@ -6,6 +6,7 @@ A fun Whack-a-Mole game built using HTML, CSS, and JavaScript. Click the moles a
 ✅ Score tracking and high-score saved in browser
 ✅ Random mole pop-ups for fun, fast-paced gameplay
 ✅ Responsive and stylish UI with animations
+Try it out:https://Akshaya2004-ak.github.io/Whack-A-Mole/
 
 🛠️ Tech Stack
 
